@@ -1,0 +1,2 @@
+influxdb==5.2.2
+python-nest==4.1.0
